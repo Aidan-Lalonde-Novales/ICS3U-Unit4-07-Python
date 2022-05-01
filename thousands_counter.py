@@ -2,7 +2,7 @@
 
 # Created by Aidan Lalonde-Novales
 # Created May 2022
-# This program enters values from 1000 - 2000
+# This program shows values from 1000 - 2000
 
 
 def main():
